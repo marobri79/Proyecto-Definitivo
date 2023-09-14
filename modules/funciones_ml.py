@@ -7,8 +7,6 @@ import joblib
 import base64
 import sklearn as sk
 import streamlit as st
-import gdown
-from keras.models import load_model
 
 
 
