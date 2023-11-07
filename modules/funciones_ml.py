@@ -7,8 +7,11 @@ import joblib
 import base64
 import sklearn as sk
 import streamlit as st
+<<<<<<< HEAD
 import gdown
 from keras.models import load_model
+=======
+>>>>>>> 68c35d3cecba06c18e13cc18035c07d1f1d82765
 
 
 
@@ -74,4 +77,8 @@ def load_model_aws(Marca, Modelo, Combustible,Cv, Año, Kms):
 
    
     
+<<<<<<< HEAD
 #    return yhat
+=======
+#    return yhat
+>>>>>>> 68c35d3cecba06c18e13cc18035c07d1f1d82765
